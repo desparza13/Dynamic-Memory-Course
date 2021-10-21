@@ -14,5 +14,11 @@ memoryDirection.c:
     
     -Repeat the activity this time liberating the memory on each loop iteration
    
-    
+numberAverage.c:
+
+  -Calculate the average of N numbers allocated with dynamic memory and received from user
+
+dynamicMatrix.c:
+
+  -Create an N sized squared matrix which will be filled with random numbers and showed on the screen
   

@@ -1,1 +1,0 @@
-Experimental simple exercises

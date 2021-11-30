@@ -1,8 +1,6 @@
 /*
  * list.h
- *
- *  Created on: 28 oct. 2021
- *      Author: Jos� Luis Elvira
+ * Daniela Esparza Espiinosa
  */
 
 #include "datatypes.h"
